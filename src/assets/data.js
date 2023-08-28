@@ -3,7 +3,7 @@ export const ProjectList = [
   {
     img: "/renr-responsive.png",
     title: "RENR Safety App",
-    description: "A safety application for the Renewable Resources Dept. of BCIT",
+    description: "Um aplicativo de segurança para o Departamento de Recursos Renováveis ​​do BCIT",
     tech_stack: ["React", "Firebase"],
     github_url: "",
     demo_url: "https://renr-bcit.web.app/",
